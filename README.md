@@ -100,4 +100,4 @@ All data is synthetic. Model names are used only to give vehicles realistic batt
 
 ## Author
 
-**Sai Jahnavi Kolli**, Data Engineer · [saijahnavikolli.com](https://saijahnavikolli.com) · [LinkedIn](https://www.linkedin.com/in/kolli-sai-jahnavi) · [GitHub](https://github.com/Kolli-Jahnavi-07)
+**Sai Jahnavi Kolli**, Data Engineer · [saijahnavikolli.com](https://saijahnavikolli.com) · kollijahnavi07@gmail.com
