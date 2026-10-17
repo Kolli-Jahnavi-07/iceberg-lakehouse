@@ -1,0 +1,15 @@
+[project]
+name = "iceberg-lakehouse"
+version = "1.0.0"
+description = "EV telemetry lakehouse on Apache Iceberg: upserts, schema and partition evolution, time travel, maintenance"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 130
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
